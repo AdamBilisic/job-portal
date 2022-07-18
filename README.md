@@ -1,3 +1,7 @@
+# Adam Bilisic improvements:
+- I would replace number ids by UUID
+- add integration and unit tests
+
 # DEEL BACKEND TASK
 
   
